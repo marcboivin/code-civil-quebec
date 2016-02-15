@@ -1,6 +1,6 @@
 
 © Éditeur officiel du Québec 
-À jour au 1er mars 2015 
+À jour au 1er janvier 2016 
 Ce document a valeur officielle.
 
 
@@ -75,17 +75,17 @@ Sauf dans les cas prévus par la loi, nul ne peut lui porter atteinte sans son c
 SECTION I 
 DES SOINS
 
-11. Nul ne peut être soumis sans son consentement à des soins, quelle qu'en soit la nature, qu'il s'agisse d'examens, de prélèvements, de traitements ou de toute autre intervention.
+11. Nul ne peut être soumis sans son consentement à des soins, quelle qu'en soit la nature, qu'il s'agisse d'examens, de prélèvements, de traitements ou de toute autre intervention. Sauf disposition contraire de la loi, le consentement n'est assujetti à aucune forme particulière et peut être révoqué à tout moment, même verbalement.
 
-Si l'intéressé est inapte à donner ou à refuser son consentement à des soins, une personne autorisée par la loi ou par un mandat donné en prévision de son inaptitude peut le remplacer.
+Si l'intéressé est inapte à donner ou à refuser son consentement à des soins et qu'il n'a pas rédigé de directives médicales anticipées en application de la Loi concernant les soins de fin de vie (chapitre S-32.0001) et par lesquelles il exprime un tel consentement ou un tel refus, une personne autorisée par la loi ou par un mandat donné en prévision de son inaptitude peut le remplacer.
 
-1991, c. 64, a. 11.
+1991, c. 64, a. 11; 2014, c. 2, a. 65.
 
-12. Celui qui consent à des soins pour autrui ou qui les refuse est tenu d'agir dans le seul intérêt de cette personne en tenant compte, dans la mesure du possible, des volontés que cette dernière a pu manifester.
+12. Celui qui consent à des soins pour autrui ou qui les refuse est tenu d'agir dans le seul intérêt de cette personne en respectant, dans la mesure du possible, les volontés que cette dernière a pu manifester.
 
 S'il exprime un consentement, il doit s'assurer que les soins seront bénéfiques, malgré la gravité et la permanence de certains de leurs effets, qu'ils sont opportuns dans les circonstances et que les risques présentés ne sont pas hors de proportion avec le bienfait qu'on en espère.
 
-1991, c. 64, a. 12.
+1991, c. 64, a. 12; 2014, c. 2, a. 66.
 
 13. En cas d'urgence, le consentement aux soins médicaux n'est pas nécessaire lorsque la vie de la personne est en danger ou son intégrité menacée et que son consentement ne peut être obtenu en temps utile.
 
@@ -99,9 +99,9 @@ Le mineur de 14 ans et plus peut, néanmoins, consentir seul à ces soins. Si so
 
 1991, c. 64, a. 14.
 
-15. Lorsque l'inaptitude d'un majeur à consentir aux soins requis par son état de santé est constatée, le consentement est donné par le mandataire, le tuteur ou le curateur. Si le majeur n'est pas ainsi représenté, le consentement est donné par le conjoint, qu'il soit marié, en union civile ou en union de fait, ou, à défaut de conjoint ou en cas d'empêchement de celui-ci, par un proche parent ou par une personne qui démontre pour le majeur un intérêt particulier.
+15. Lorsque l'inaptitude d'un majeur à consentir aux soins requis par son état de santé est constatée et en l'absence de directives médicales anticipées, le consentement est donné par le mandataire, le tuteur ou le curateur. Si le majeur n'est pas ainsi représenté, le consentement est donné par le conjoint, qu'il soit marié, en union civile ou en union de fait, ou, à défaut de conjoint ou en cas d'empêchement de celui-ci, par un proche parent ou par une personne qui démontre pour le majeur un intérêt particulier.
 
-1991, c. 64, a. 15; 2002, c. 6, a. 1.
+1991, c. 64, a. 15; 2002, c. 6, a. 1; 2014, c. 2, a. 67.
 
 16. L'autorisation du tribunal est nécessaire en cas d'empêchement ou de refus injustifié de celui qui peut consentir à des soins requis par l'état de santé d'un mineur ou d'un majeur inapte à donner son consentement; elle l'est également si le majeur inapte à consentir refuse catégoriquement de recevoir les soins, à moins qu'il ne s'agisse de soins d'hygiène ou d'un cas d'urgence.
 
@@ -474,15 +474,17 @@ Cette personne ou un tiers intéressé peut, à ses frais et en fournissant la p
 SECTION IV 
 DU CHANGEMENT DE LA MENTION DU SEXE
 
-71. La personne qui a subi avec succès des traitements médicaux et des interventions chirurgicales impliquant une modification structurale des organes sexuels, et destinés à changer ses caractères sexuels apparents, peut obtenir la modification de la mention du sexe figurant sur son acte de naissance et, s'il y a lieu, de ses prénoms.
+71. La personne dont l'identité sexuelle ne correspond pas à la mention du sexe figurant à son acte de naissance peut, si elle satisfait aux conditions prévues par le présent code et à celles déterminées par un règlement du gouvernement, obtenir la modification de cette mention et, s'il y a lieu, de ses prénoms.
 
-Seul un majeur domicilié au Québec depuis au moins un an et ayant la citoyenneté canadienne, peut faire cette demande.
+Ces modifications ne peuvent en aucun cas être subordonnées à l'exigence que la personne ait subi quelque traitement médical ou intervention chirurgicale que ce soit.
 
-1991, c. 64, a. 71; 2004, c. 23, a. 1.
+Sous réserve des dispositions de l'article 3084.1, seul un majeur domicilié au Québec depuis au moins un an et ayant la citoyenneté canadienne peut obtenir de telles modifications.
 
-72. La demande est faite au directeur de l'état civil; outre les autres documents pertinents, elle est accompagnée d'un certificat du médecin traitant et d'une attestation du succès des soins établie par un autre médecin qui exerce au Québec.
+1991, c. 64, a. 71; 2004, c. 23, a. 1; 2013, c. 27, a. 3.
 
-1991, c. 64, a. 72.
+72. La demande est faite au directeur de l'état civil; doivent également lui être fournis les documents prescrits par règlement du gouvernement.
+
+1991, c. 64, a. 72; 2013, c. 27, a. 4.
 
 73. La demande obéit à la même procédure que la demande de changement de nom, sauf quant à sa publicité, et est sujette aux mêmes droits. Le changement de la mention du sexe a, avec les adaptations nécessaires, les mêmes effets que le changement de nom.
 
@@ -1424,7 +1426,9 @@ En outre, lorsque les règles de l'administration du bien d'autrui prévoient qu
 
 Les décisions sont prises, et les avis donnés, à la majorité des voix; les motifs de chacun doivent être exprimés.
 
-1991, c. 64, a. 234.
+Dès sa constitution et lors de tout changement dans sa composition, le conseil de tutelle informe le mineur, s'il est âgé de 14 ans et plus, ainsi que son tuteur, du nom et des coordonnées de ses membres et de son secrétaire. Il informe également le curateur public.
+
+1991, c. 64, a. 234; 2014, c. 1, a. 784.
 
 235. Le conseil doit faire nommer un tuteur ad hoc chaque fois que le mineur a des intérêts à discuter en justice avec son tuteur.
 
@@ -1438,7 +1442,11 @@ Il reçoit le compte annuel de gestion du tuteur et a le droit de consulter tous
 
 237. Toute personne intéressée peut, pour un motif grave, demander au tribunal la révision, dans un délai de 10 jours, d'une décision du conseil ou l'autorisation de provoquer la constitution d'un nouveau conseil.
 
-1991, c. 64, a. 237.
+Lorsqu'une demande en révision d'une décision du conseil lui est notifiée, le secrétaire transmet, sans délai, au greffe du tribunal, le procès-verbal et le dossier relatif à la décision qui fait l'objet de la demande de révision.
+
+Toute notification au conseil de tutelle est faite à son secrétaire.
+
+1991, c. 64, a. 237; 2014, c. 1, a. 785.
 
 238. Le tuteur peut provoquer la convocation du conseil ou, à défaut de pouvoir le faire, demander au tribunal l'autorisation d'agir seul.
 
@@ -3220,11 +3228,11 @@ Le notaire ne peut recevoir la déclaration avant que l'accord ne soit constaté
 
 521.16. La déclaration commune de dissolution et le contrat de transaction ont, à compter de la date où ils sont reçus devant notaire et sans autre formalité, les effets d'un jugement de dissolution de l'union civile.
 
-Outre sa notification au directeur de l'état civil, la déclaration notariée doit être transmise au dépositaire de la minute du contrat d'union civile original et, le cas échéant, au dépositaire de la minute de tout contrat qui en modifie le régime. Le dépositaire est tenu de faire mention, sur la minute et sur toute copie qu'il en délivre, de la déclaration commune de dissolution qui lui a été transmise, en indiquant la date de la déclaration, le numéro de la minute ainsi que le nom et l'adresse du notaire qui l'a reçue. La déclaration et la transaction notariées doivent, en outre, être transmises à la Régie des rentes du Québec.
+Outre sa notification au directeur de l'état civil, la déclaration notariée doit être transmise au dépositaire de la minute du contrat d'union civile original et, le cas échéant, au dépositaire de la minute de tout contrat qui en modifie le régime. Le dépositaire est tenu de faire mention, sur la minute et sur toute copie qu'il en délivre, de la déclaration commune de dissolution qui lui a été transmise, en indiquant la date de la déclaration, le numéro de la minute ainsi que le nom et l'adresse du notaire qui l'a reçue. La déclaration et la transaction notariées doivent, en outre, être transmises à Retraite Québec.
 
 Sur réquisition du notaire instrumentant, un avis de la déclaration notariée doit être inscrit au registre des droits personnels et réels mobiliers.
 
-2002, c. 6, a. 27.
+2002, c. 6, a. 27; 2015, c. 20, a. 61.
 
 521.17. À défaut d'une déclaration commune de dissolution reçue devant notaire ou lorsque les intérêts des enfants communs des conjoints sont en cause, la dissolution doit être prononcée par le tribunal.
 
@@ -3559,9 +3567,9 @@ Ce délai peut toutefois être réduit d'une période n'excédant pas trois mois
 
 Le tribunal vérifie en outre, lorsque le placement d'un enfant domicilié hors du Québec est fait en vertu d'un accord conclu en application de la Loi sur la protection de la jeunesse (chapitre P-34.1), si la procédure suivie est conforme à l'accord. Lorsque le placement de l'enfant est fait dans le cadre de la Convention sur la protection des enfants et la coopération en matière d'adoption internationale, il vérifie si les conditions qui y sont prévues ont été respectées.
 
-Le placement peut, pour des motifs sérieux et si l'intérêt de l'enfant le commande, être ordonné bien que l'adoptant ne se soit pas conformé aux dispositions des articles 563 et 564. Cependant, la requête doit être accompagnée d'une évaluation psychosociale effectuée par le directeur de la protection de la jeunesse.
+Le placement peut, pour des motifs sérieux et si l'intérêt de l'enfant le commande, être ordonné bien que l'adoptant ne se soit pas conformé aux dispositions des articles 563 et 564. Cependant, la demande doit être accompagnée d'une évaluation psychosociale effectuée par le directeur de la protection de la jeunesse.
 
-1991, c. 64, a. 568; 2004, c. 3, a. 15.
+1991, c. 64, a. 568; 2004, c. 3, a. 15; 2014, c. 1, a. 786.
 
 569. L'ordonnance de placement confère l'exercice de l'autorité parentale à l'adoptant; elle permet à l'enfant, pendant la durée du placement, d'exercer ses droits civils sous les nom et prénoms choisis par l'adoptant, lesquels sont constatés dans l'ordonnance.
 
@@ -3593,9 +3601,9 @@ Elle fait obstacle à toute restitution de l'enfant à ses parents ou à son tut
 
 Le tribunal vérifie en outre, lorsque la décision d'adoption a été rendue hors du Québec en vertu d'un accord conclu en application de la Loi sur la protection de la jeunesse (chapitre P-34.1), si la procédure suivie est conforme à l'accord.
 
-La reconnaissance peut, pour des motifs sérieux et si l'intérêt de l'enfant le commande, être accordée bien que l'adoptant ne se soit pas conformé aux dispositions des articles 563 et 564. Cependant, la requête doit être accompagnée d'une évaluation psychosociale.
+La reconnaissance peut, pour des motifs sérieux et si l'intérêt de l'enfant le commande, être accordée bien que l'adoptant ne se soit pas conformé aux dispositions des articles 563 et 564. Cependant, la demande doit être accompagnée d'une évaluation psychosociale.
 
-1991, c. 64, a. 574; 2004, c. 3, a. 17.
+1991, c. 64, a. 574; 2004, c. 3, a. 17; 2014, c. 1, a. 786.
 
 575. Si l'un des adoptants décède après l'ordonnance de placement, le tribunal peut prononcer l'adoption même à l'égard de l'adoptant décédé.
 
@@ -3754,9 +3762,9 @@ Cependant, lorsque les arrérages sont dus depuis plus de six mois, le débiteur
 
 596.1. Afin de maintenir à jour la valeur des aliments dus à leur enfant, les parents doivent, à la demande de l'un d'eux et au plus une fois l'an, ou selon les modalités fixées par le tribunal, se tenir mutuellement informés de l'état de leurs revenus respectifs et fournir, à cette fin, les documents prescrits par les règles de fixation des pensions alimentaires pour enfants édictées en application du Code de procédure civile (chapitre C-25).
 
-L'inexécution de cette obligation par l'un des parents confère à l'autre le droit de demander, outre l'exécution en nature et les dépens, des dommages-intérêts en réparation du préjudice qu'il a subi, notamment pour compenser les honoraires et débours extrajudiciaires qu'il a engagés.
+L'inexécution de cette obligation par l'un des parents confère à l'autre le droit de demander, outre l'exécution en nature et les dépens, des dommages-intérêts en réparation du préjudice qu'il a subi, notamment pour compenser les honoraires professionnels de son avocat et les débours qu'il a engagés.
 
-2012, c. 20, a. 44.
+2012, c. 20, a. 44; 2014, c. 1, a. 787.
 
 TITRE QUATRIÈME 
 DE L'AUTORITÉ PARENTALE
@@ -5501,6 +5509,14 @@ Toutefois, plutôt que d'annuler, on peut procéder à un partage supplémentair
 LIVRE QUATRIÈME 
 DES BIENS
 
+DISPOSITION GÉNÉRALE
+
+898.1. Les animaux ne sont pas des biens. Ils sont des êtres doués de sensibilité et ils ont des impératifs biologiques.
+
+Outre les dispositions des lois particulières qui les protègent, les dispositions du présent code et de toute autre loi relatives aux biens leur sont néanmoins applicables.
+
+2015, c. 35, a. 1.
+
 TITRE PREMIER 
 DE LA DISTINCTION DES BIENS ET DE LEUR APPROPRIATION
 
@@ -5535,9 +5551,9 @@ Toutefois, les meubles qui, dans l'immeuble, servent à l'exploitation d'une ent
 
 1991, c. 64, a. 904.
 
-905. Sont meubles les choses qui peuvent se transporter, soit qu'elles se meuvent elles-mêmes, soit qu'il faille une force étrangère pour les déplacer.
+905. Sont meubles les biens qui peuvent se transporter.
 
-1991, c. 64, a. 905.
+1991, c. 64, a. 905; 2015, c. 35, a. 2.
 
 906. Sont réputées meubles corporels les ondes ou l'énergie maîtrisées par l'être humain et mises à son service, quel que soit le caractère mobilier ou immobilier de leur source.
 
@@ -5562,11 +5578,11 @@ Le capital comprend aussi les droits de propriété intellectuelle et industriel
 
 910. Les fruits et revenus sont ce que le bien produit sans que sa substance soit entamée ou ce qui provient de l'utilisation d'un capital. Ils comprennent aussi les droits dont l'exercice tend à accroître les fruits et revenus du bien.
 
-Sont classés parmi les fruits ce qui est produit spontanément par le bien, ce qui est produit par la culture ou l'exploitation d'un fonds, de même que le produit ou le croît des animaux.
+Sont classés parmi les fruits ce qui est produit spontanément par le bien de même que par ce qui est produit par la culture ou l'exploitation d'un fonds. Le croît des animaux, de même que ce qu'ils produisent, sont également classés parmi les fruits.
 
 Sont classées parmi les revenus les sommes d'argent que le bien rapporte, tels les loyers, les intérêts, les dividendes, sauf s'ils représentent la distribution d'un capital d'une personne morale; le sont aussi les sommes reçues en raison de la résiliation ou du renouvellement d'un bail ou d'un paiement par anticipation, ou les sommes attribuées ou perçues dans des circonstances analogues.
 
-1991, c. 64, a. 910.
+1991, c. 64, a. 910; 2015, c. 35, a. 3.
 
 CHAPITRE TROISIÈME 
 DES BIENS DANS LEURS RAPPORTS AVEC CEUX QUI Y ONT DES DROITS OU QUI LES POSSÈDENT
@@ -5696,11 +5712,11 @@ DE L'ACQUISITION DES BIENS VACANTS
 
 § 1. —  Des biens sans maître
 
-934. Sont sans maître les biens qui n'ont pas de propriétaire, tels les animaux sauvages en liberté, ceux qui, capturés, ont recouvré leur liberté, la faune aquatique, ainsi que les biens qui ont été abandonnés par leur propriétaire.
+934. Sont sans maître les biens qui sont sans propriétaire ou qui ont été abandonnés.
 
 Sont réputés abandonnés les meubles de peu de valeur ou très détériorés qui sont laissés en des lieux publics, y compris sur la voie publique ou dans des véhicules qui servent au transport du public.
 
-1991, c. 64, a. 934.
+1991, c. 64, a. 934; 2015, c. 35, a. 4.
 
 935. Les meubles sans maître appartiennent à la personne qui se les approprie par occupation.
 
@@ -5952,9 +5968,9 @@ DES LIMITES DU FONDS ET DU BORNAGE
 
 Il doit au préalable, en l'absence d'accord entre eux, mettre le voisin en demeure de consentir au bornage et de convenir avec lui du choix d'un arpenteur-géomètre pour procéder aux opérations requises, suivant les règles prévues au Code de procédure civile (chapitre C-25).
 
-Le procès-verbal de bornage doit être inscrit au registre foncier.
+Le procès-verbal d'abornement doit être inscrit au registre foncier; le rapport de bornage peut également y être joint.
 
-1991, c. 64, a. 978.
+1991, c. 64, a. 978; 2014, c. 1, a. 788.
 
 SECTION III 
 DES EAUX
@@ -6013,11 +6029,11 @@ DE L'ACCÈS AU FONDS D'AUTRUI ET DE SA PROTECTION
 
 1991, c. 64, a. 988.
 
-989. Lorsque, par l'effet d'une force naturelle ou majeure, des biens sont entraînés sur le fonds d'autrui ou s'y transportent, le propriétaire de ce fonds doit en permettre la recherche et l'enlèvement, à moins qu'il ne procède lui-même immédiatement à la recherche et ne remette les biens.
+989. Lorsque, par l'effet d'une force naturelle ou majeure, des biens se retrouvent sur le fonds d'autrui, le propriétaire de ce fonds doit en permettre la recherche et l'enlèvement, à moins qu'il ne procède lui-même immédiatement à la recherche et ne remette les biens.
 
-Ces biens, objets ou animaux, continuent d'appartenir à leur propriétaire, sauf s'il en abandonne la recherche; dans ce cas, le propriétaire du fonds les acquiert, à moins qu'il ne contraigne le propriétaire de ces biens à les enlever et à remettre son fonds dans son état antérieur.
+Ces biens continuent d'appartenir à leur propriétaire, sauf s'il en abandonne la recherche; dans ce cas, le propriétaire du fonds les acquiert, à moins qu'il ne contraigne le propriétaire de ces biens à les enlever et à remettre son fonds dans son état antérieur.
 
-1991, c. 64, a. 989.
+1991, c. 64, a. 989; 2015, c. 35, a. 5.
 
 990. Le propriétaire du fonds doit exécuter les travaux de réparation ou de démolition qui s'imposent afin d'éviter la chute d'une construction ou d'un ouvrage qui est sur son fonds et qui menace de tomber sur le fonds voisin, y compris sur la voie publique.
 
@@ -7011,11 +7027,11 @@ L'usufruitier dispensé d'assurer le bien n'est pas tenu de remplacer ou de paye
 
 1991, c. 64, a. 1160.
 
-1161. Si l'usufruit porte sur un troupeau qui périt entièrement par force majeure, l'usufruitier dispensé d'assurer le bien est tenu de rendre compte au nu-propriétaire des cuirs ou de leur valeur.
+1161. Si l'usufruit porte sur un troupeau qui périt entièrement par force majeure, l'usufruitier dispensé de l'assurer est tenu de rendre compte au nu-propriétaire des cuirs ou de leur valeur.
 
 Si le troupeau ne périt pas entièrement, l'usufruitier est tenu de remplacer, à concurrence du croît, les animaux qui ont péri.
 
-1991, c. 64, a. 1161.
+1991, c. 64, a. 1161; 2015, c. 35, a. 6.
 
 SECTION IV 
 DE L'EXTINCTION DE L'USUFRUIT
@@ -9198,9 +9214,9 @@ Le créancier ne peut réclamer des dommages-intérêts additionnels qu'aux cod�
 
 1991, c. 64, a. 1528.
 
-1529. La poursuite intentée contre l'un des débiteurs solidaires ne prive pas le créancier de son recours contre les autres, mais le débiteur poursuivi peut appeler, au procès, les autres débiteurs solidaires.
+1529. L'action intentée contre l'un des débiteurs solidaires ne prive pas le créancier de son recours contre les autres, mais le débiteur poursuivi peut appeler, au procès, les autres débiteurs solidaires.
 
-1991, c. 64, a. 1529.
+1991, c. 64, a. 1529; 2014, c. 1, a. 789.
 
 1530. Le débiteur solidaire poursuivi par le créancier peut opposer tous les moyens qui lui sont personnels, ainsi que ceux qui sont communs à tous les codébiteurs; mais il ne peut opposer les moyens qui sont purement personnels à l'un ou à plusieurs des autres codébiteurs.
 
@@ -9622,9 +9638,9 @@ La réduction proportionnelle de l'obligation corrélative s'apprécie en tenant
 
 1991, c. 64, a. 1604.
 
-1605. La résolution ou la résiliation du contrat peut avoir lieu sans poursuite judiciaire lorsque le débiteur est en demeure de plein droit d'exécuter son obligation ou qu'il ne l'a pas exécutée dans le délai fixé par la mise en demeure.
+1605. La résolution ou la résiliation du contrat peut avoir lieu sans action judiciaire lorsque le débiteur est en demeure de plein droit d'exécuter son obligation ou qu'il ne l'a pas exécutée dans le délai fixé par la mise en demeure.
 
-1991, c. 64, a. 1605.
+1991, c. 64, a. 1605; 2014, c. 1, a. 790.
 
 1606. Le contrat résolu est réputé n'avoir jamais existé; chacune des parties est, dans ce cas, tenue de restituer à l'autre les prestations qu'elle a reçues.
 
@@ -9823,9 +9839,9 @@ Cette cession ne peut, cependant, porter atteinte aux droits du débiteur, ni re
 
 1641. La cession est opposable au débiteur et aux tiers, dès que le débiteur y a acquiescé ou qu'il a reçu une copie ou un extrait pertinent de l'acte de cession ou, encore, une autre preuve de la cession qui soit opposable au cédant.
 
-Lorsque le débiteur ne peut être trouvé au Québec, la cession est opposable dès la publication d'un avis de la cession, dans un journal distribué dans la localité de la dernière adresse connue du débiteur ou, s'il exploite une entreprise, dans la localité où elle a son principal établissement.
+Lorsque le débiteur ne peut être trouvé au Québec, la cession est opposable dès la publication d'un avis faite conformément aux règles établies par le Code de procédure civile (chapitre C-25.01) pour la notification par avis public.
 
-1991, c. 64, a. 1641.
+1991, c. 64, a. 1641; 2014, c. 1, a. 791.
 
 1642. La cession d'une universalité de créances, actuelles ou futures, est opposable aux débiteurs et aux tiers, par l'inscription de la cession au registre des droits personnels et réels mobiliers, pourvu cependant, quant aux débiteurs qui n'ont pas acquiescé à la cession, que les autres formalités prévues pour leur rendre la cession opposable aient été accomplies.
 
@@ -9837,9 +9853,9 @@ Il peut aussi opposer le paiement que lui-même ou sa caution a fait de bonne fo
 
 1991, c. 64, a. 1643.
 
-1644. Lorsque la remise au débiteur de la copie ou d'un extrait de l'acte de cession ou d'une autre preuve de la cession qui soit opposable au cédant a lieu au moment de la signification d'une action exercée contre le débiteur, aucuns frais judiciaires ne peuvent être exigés de ce dernier s'il paie dans le délai fixé pour la comparution, à moins qu'il n'ait déjà été en demeure d'exécuter l'obligation.
+1644. Lorsque la remise au débiteur de la copie ou d'un extrait de l'acte de cession ou d'une autre preuve de la cession qui soit opposable au cédant a lieu au moment de la signification d'une action exercée contre le débiteur, aucuns frais judiciaires ne peuvent être exigés de ce dernier s'il paie dans le délai fixé pour répondre à l'assignation, à moins qu'il n'ait déjà été en demeure d'exécuter l'obligation.
 
-1991, c. 64, a. 1644.
+1991, c. 64, a. 1644; 2014, c. 1, a. 792.
 
 1645. La cession n'est opposable à la caution que si les formalités prévues pour rendre la cession opposable au débiteur ont été accomplies à l'égard de la caution elle-même.
 
@@ -10504,9 +10520,9 @@ IV. —  De la vente aux enchères
 
 1991, c. 64, a. 1757.
 
-1758. La vente aux enchères est volontaire ou forcée; en ce dernier cas, la vente est alors soumise aux règles prévues au Code de procédure civile (chapitre C-25), ainsi qu'aux règles du présent sous-paragraphe, s'il n'y a pas incompatibilité.
+1758. La vente aux enchères faite sous contrôle de justice par l'huissier a lieu selon les règles du Code de procédure civile (chapitre C-25.01) et du présent sous-paragraphe et, s'il n'y a pas incompatibilité, selon les modalités prévues à l'avis de vente que l'huissier a publié.
 
-1991, c. 64, a. 1758.
+1991, c. 64, a. 1758; 2014, c. 1, a. 793.
 
 1759. Le vendeur peut fixer une mise à prix ou d'autres conditions à la vente. Celles-ci ne sont, néanmoins, opposables à l'adjudicataire que si l'encanteur les a communiquées aux personnes présentes avant de recevoir les enchères.
 
@@ -11280,9 +11296,9 @@ Le locataire ne peut, toutefois, demander la résiliation du bail si le locateur
 
 1896. Le locateur doit, lors de la conclusion du bail, remettre au nouveau locataire un avis indiquant le loyer le plus bas payé au cours des 12 mois précédant le début du bail ou, le cas échéant, le loyer fixé par le tribunal au cours de la même période, ainsi que toute autre mention prescrite par les règlements pris par le gouvernement.
 
-Il n'est pas tenu de cette obligation lorsque le bail porte sur un logement visé aux articles 1955 et 1956.
+Il n'est pas tenu à cette obligation lorsque le bail porte sur un logement visé aux articles 1955 et 1956.
 
-1991, c. 64, a. 1896.
+1991, c. 64, a. 1896; N.I. 2015-11-01.
 
 1897. Le bail, ainsi que le règlement de l'immeuble, doivent être rédigés en français. Ils peuvent cependant être rédigés dans une autre langue si telle est la volonté expresse des parties.
 
@@ -11949,9 +11965,9 @@ Il assure le navire et en supporte tous les frais d'exploitation. Il recrute l'�
 
 2012. L'affréteur est tenu de procéder à l'entretien du navire et d'effectuer les réparations et les remplacements nécessaires.
 
-Le fréteur est, pour sa part, tenu des réparations et des remplacements occasionnés par les vices propres dont les effets se manifestent dans l'année de la remise du navire à l'affréteur et, si le navire est immobilisé par suite d'un tel vice, ce dernier ne doit aucun fret pendant l'immobilisation, si celle-ci dépasse 24 heures.
+Le fréteur est, pour sa part, tenu aux réparations et des remplacements occasionnés par les vices propres dont les effets se manifestent dans l'année de la remise du navire à l'affréteur et, si le navire est immobilisé par suite d'un tel vice, ce dernier ne doit aucun fret pendant l'immobilisation, si celle-ci dépasse 24 heures.
 
-1991, c. 64, a. 2012.
+1991, c. 64, a. 2012; N.I. 2015-11-01.
 
 2013. L'affréteur restitue le navire, en fin de contrat, au lieu où il en a pris livraison et dans l'état où il l'a reçu; il n'est pas tenu d'indemniser le fréteur pour l'usure normale du navire, du matériel et de l'équipement de bord.
 
@@ -12445,9 +12461,9 @@ DE LA NATURE ET DE L'ÉTENDUE DU CONTRAT
 
 2100. L'entrepreneur et le prestataire de services sont tenus d'agir au mieux des intérêts de leur client, avec prudence et diligence. Ils sont aussi tenus, suivant la nature de l'ouvrage à réaliser ou du service à fournir, d'agir conformément aux usages et règles de leur art, et de s'assurer, le cas échéant, que l'ouvrage réalisé ou le service fourni est conforme au contrat.
 
-Lorsqu'ils sont tenus du résultat, ils ne peuvent se dégager de leur responsabilité qu'en prouvant la force majeure.
+Lorsqu'ils sont tenus au résultat, ils ne peuvent se dégager de leur responsabilité qu'en prouvant la force majeure.
 
-1991, c. 64, a. 2100.
+1991, c. 64, a. 2100; N.I. 2015-11-01.
 
 SECTION II 
 DES DROITS ET OBLIGATIONS DES PARTIES
@@ -12464,11 +12480,11 @@ DES DROITS ET OBLIGATIONS DES PARTIES
 
 2103. L'entrepreneur ou le prestataire de services fournit les biens nécessaires à l'exécution du contrat, à moins que les parties n'aient stipulé qu'il ne fournirait que son travail.
 
-Les biens qu'il fournit doivent être de bonne qualité; il est tenu, quant à ces biens, des mêmes garanties que le vendeur.
+Les biens qu'il fournit doivent être de bonne qualité; il est tenu, quant à ces biens, aux mêmes garanties que le vendeur.
 
 Il y a contrat de vente, et non contrat d'entreprise ou de service, lorsque l'ouvrage ou le service n'est qu'un accessoire par rapport à la valeur des biens fournis.
 
-1991, c. 64, a. 2103.
+1991, c. 64, a. 2103; N.I. 2015-11-01.
 
 2104. Lorsque les biens sont fournis par le client, l'entrepreneur ou le prestataire de services est tenu d'en user avec soin et de rendre compte de cette utilisation; si les biens sont manifestement impropres à l'utilisation à laquelle ils sont destinés ou s'ils sont affectés d'un vice apparent ou d'un vice caché qu'il devait connaître, l'entrepreneur ou le prestataire de services est tenu d'en informer immédiatement le client, à défaut de quoi il est responsable du préjudice qui peut résulter de l'utilisation des biens.
 
@@ -12779,19 +12795,19 @@ Il s'engage aussi personnellement s'il est tenu de taire le nom du mandant ou s'
 
 § 2. —  Des obligations du mandant envers les tiers
 
-2160. Le mandant est tenu envers le tiers pour les actes accomplis par le mandataire dans l'exécution et les limites du mandat, sauf si, par la convention ou les usages, le mandataire est seul tenu.
+2160. Le mandant est tenu envers le tiers des actes accomplis par le mandataire dans l'exécution et les limites du mandat, sauf si, par la convention ou les usages, le mandataire est seul tenu.
 
 Il est aussi tenu des actes qui excédaient les limites du mandat et qu'il a ratifiés.
 
-1991, c. 64, a. 2160.
+1991, c. 64, a. 2160; N.I. 2015-11-01.
 
 2161. Le mandant peut, s'il en subit un préjudice, répudier les actes de la personne que le mandataire s'est substituée lorsque cette substitution s'est faite sans l'autorisation du mandant ou sans que son intérêt ou les circonstances justifient la substitution.
 
 1991, c. 64, a. 2161.
 
-2162. Le mandant ou, à son décès, ses héritiers, sont tenus envers le tiers des actes accomplis par le mandataire dans l'exécution et les limites du mandat après la fin de celui-ci, lorsque ces actes étaient la suite nécessaire de ceux déjà accomplis ou qu'ils ne pouvaient être différés sans risque de perte, ou encore lorsque la fin du mandat est restée inconnue du tiers.
+2162. Le mandant ou, à son décès, ses héritiers sont tenus envers le tiers des actes accomplis par le mandataire dans l'exécution et les limites du mandat après la fin de celui-ci, lorsque ces actes étaient la suite nécessaire de ceux déjà accomplis ou qu'ils ne pouvaient être différés sans risque de perte, ou encore lorsque la fin du mandat est restée inconnue du tiers.
 
-1991, c. 64, a. 2162.
+1991, c. 64, a. 2162; N.I. 2015-11-01.
 
 2163. Celui qui a laissé croire qu'une personne était son mandataire est tenu, comme s'il y avait eu mandat, envers le tiers qui a contracté de bonne foi avec celle-ci, à moins qu'il n'ait pris des mesures appropriées pour prévenir l'erreur dans des circonstances qui la rendaient prévisible.
 
@@ -12808,13 +12824,12 @@ Si une action est déjà intentée par le mandataire contre le tiers, le droit d
 1991, c. 64, a. 2165.
 
 SECTION IV 
-DES RÈGLES PARTICULIÈRES AU MANDAT DONNÉ EN PRÉVISION DE L'INAPTITUDE DU MANDANT
-
-2166. Le mandat donné par une personne majeure en prévision de son inaptitude à prendre soin d'elle-même ou à administrer ses biens est fait par acte notarié en minute ou devant témoins.
+DES RÈGLES PARTICULIÈRES AU MANDAT DE PROTECTION
+2166. Le mandat de protection est celui donné par une personne majeure en prévision de son inaptitude à prendre soin d'elle-même ou à administrer ses biens; il est fait par acte notarié en minute ou devant témoins.
 
 Son exécution est subordonnée à la survenance de l'inaptitude et à l'homologation par le tribunal, sur demande du mandataire désigné dans l'acte.
 
-1991, c. 64, a. 2166.
+1991, c. 64, a. 2166; 2014, c. 1, a. 795.
 
 2167. Le mandat devant témoins est rédigé par le mandant ou par un tiers.
 
@@ -12836,9 +12851,9 @@ Si, alors, des avis, consentements ou autorisations sont requis en application d
 
 2169. Lorsque le mandat ne permet pas d'assurer pleinement les soins de la personne ou l'administration de ses biens, un régime de protection peut être établi pour le compléter; le mandataire poursuit alors l'exécution de son mandat et fait rapport, sur demande et au moins une fois l'an, au tuteur ou au curateur et, à la fin du mandat, il leur rend compte.
 
-Le mandataire n'est tenu de ces obligations qu'à l'égard du tuteur ou curateur à la personne. S'il assure lui-même la protection de la personne, le tuteur ou le curateur aux biens est tenu aux mêmes obligations envers le mandataire.
+Le mandataire n'est tenu à ces obligations qu'à l'égard du tuteur ou curateur à la personne. S'il assure lui-même la protection de la personne, le tuteur ou le curateur aux biens est tenu aux mêmes obligations envers le mandataire.
 
-1991, c. 64, a. 2169.
+1991, c. 64, a. 2169; N.I. 2015-11-01.
 
 2170. Les actes faits antérieurement à l'homologation du mandat peuvent être annulés ou les obligations qui en découlent réduites, sur la seule preuve que l'inaptitude était notoire ou connue du cocontractant à l'époque où les actes ont été passés.
 
@@ -13213,11 +13228,11 @@ Le tiers qui s'engage à fournir un apport devient commanditaire de la société
 
 2238. Les commandités ont les pouvoirs, droits et obligations des associés de la société en nom collectif, mais ils sont tenus de rendre compte de leur administration aux commanditaires.
 
-Ils sont tenus, envers ces derniers, des mêmes obligations que celles auxquelles l'administrateur chargé de la pleine administration du bien d'autrui est tenu envers le bénéficiaire de l'administration.
+Ils sont tenus, envers ces derniers, aux mêmes obligations que celles auxquelles l'administrateur chargé de la pleine administration du bien d'autrui est tenu envers le bénéficiaire de l'administration.
 
 Les clauses limitant les pouvoirs des commandités sont inopposables aux tiers de bonne foi.
 
-1991, c. 64, a. 2238.
+1991, c. 64, a. 2238; N.I. 2015-11-01.
 
 2239. Les commandités tiennent, au lieu du principal établissement de la société, un registre dans lequel sont inscrits les nom et domicile des commanditaires et tous les renseignements concernant leur apport au fonds commun.
 
@@ -13495,9 +13510,9 @@ Il ne doit les intérêts des sommes déposées que lorsqu'il est en demeure de 
 
 1991, c. 64, a. 2287.
 
-2288. L'héritier ou un autre représentant légal du dépositaire, qui vend de bonne foi le bien dont il ignorait le dépôt, n'est tenu que de rendre le prix qu'il a reçu, ou de céder son droit contre l'acheteur si le prix n'a pas été payé.
+2288. L'héritier ou un autre représentant légal du dépositaire qui vend de bonne foi le bien dont il ignorait le dépôt, n'est tenu que de rendre le prix qu'il a reçu, ou de céder son droit contre l'acheteur si le prix n'a pas été payé.
 
-1991, c. 64, a. 2288.
+1991, c. 64, a. 2288; N.I. 2015-11-01.
 
 2289. Le dépositaire est tenu, si le dépôt est à titre gratuit, de la perte du bien déposé qui survient par sa faute; si le dépôt est à titre onéreux ou s'il a été exigé par le dépositaire, celui-ci est tenu de la perte du bien, à moins qu'il ne prouve la force majeure.
 
@@ -14026,11 +14041,11 @@ La remise du capital peut néanmoins être exigée si le débirentier devient in
 
 1991, c. 64, a. 2386.
 
-2387. Lorsque le service de la rente est garanti par une hypothèque sur un bien qui doit faire l'objet d'une vente forcée, le crédirentier ne peut demander que la vente soit réalisée à charge de sa rente; mais il peut, si son hypothèque est de premier rang, exiger que le créancier lui fournisse caution suffisante pour que la rente continue d'être servie.
+2387. Lorsque le service de la rente est garanti par une hypothèque sur un bien qui doit faire l'objet d'une vente sous contrôle de justice, le crédirentier ne peut demander que la vente soit réalisée à charge de sa rente; mais il peut, si son hypothèque est de premier rang, exiger que le créancier lui fournisse caution suffisante pour que la rente continue d'être servie.
 
 Le défaut de fournir caution confère au crédirentier le droit de recevoir, suivant son rang, la valeur de la rente en capital, au jour de la collocation ou de la distribution.
 
-1991, c. 64, a. 2387.
+1991, c. 64, a. 2387; 2014, c. 1, a. 796.
 
 2388. La valeur de la rente en capital est toujours estimée égale au montant qui serait suffisant pour acquérir d'un assureur autorisé une rente de même valeur.
 
@@ -15520,11 +15535,9 @@ En cas de concours entre les créanciers, la distribution du prix se fait en pro
 
 1991, c. 64, a. 2647.
 
-2648. Peuvent être soustraits à la saisie, dans les limites fixées par le Code de procédure civile (chapitre C-25), les meubles du débiteur qui garnissent sa résidence principale, servent à l'usage du ménage et sont nécessaires à la vie de celui-ci, sauf si ces meubles sont saisis pour les sommes dues sur le prix.
+2648. Ne peuvent être saisis les biens que le Code de procédure civile (chapitre C-25.01), dans les limites qu'il fixe, permet de soustraire à une saisie ou déclare insaisissables.
 
-Peuvent l'être aussi, dans les limites ainsi fixées, les instruments de travail nécessaires à l'exercice personnel d'une activité professionnelle, sauf si ces meubles sont saisis par un créancier détenant une hypothèque sur ceux-ci.
-
-1991, c. 64, a. 2648.
+1991, c. 64, a. 2648; 2014, c. 1, a. 797.
 
 2649. La stipulation d'insaisissabilité est sans effet, à moins qu'elle ne soit faite dans un acte à titre gratuit et qu'elle ne soit temporaire et justifiée par un intérêt sérieux et légitime; néanmoins, le bien demeure saisissable dans la mesure prévue au Code de procédure civile (chapitre C-25).
 
@@ -15670,9 +15683,9 @@ Elle ne peut non plus grever les meubles du débiteur qui garnissent sa résiden
 
 1991, c. 64, a. 2672.
 
-2673. L'hypothèque subsiste sur le meuble nouveau qui résulte de la transformation d'un bien grevé d'hypothèque et s'étend à celui qui résulte du mélange ou de l'union de plusieurs meubles dont certains sont ainsi grevés. Celui qui acquiert la propriété du nouveau bien, notamment par application des règles de l'accession mobilière, est tenu de cette hypothèque.
+2673. L'hypothèque subsiste sur le meuble nouveau qui résulte de la transformation d'un bien grevé d'hypothèque et s'étend à celui qui résulte du mélange ou de l'union de plusieurs meubles dont certains sont ainsi grevés. Celui qui acquiert la propriété du nouveau bien, notamment par application des règles de l'accession mobilière, est tenu à cette hypothèque.
 
-1991, c. 64, a. 2673.
+1991, c. 64, a. 2673; N.I. 2015-11-01.
 
 2674. L'hypothèque qui grève une universalité de biens subsiste mais se reporte sur le bien de même nature qui remplace celui qui a été aliéné dans le cours des activités de l'entreprise.
 
@@ -15736,25 +15749,25 @@ L'acte constitutif de l'hypothèque est, s'il s'agit d'un acte accessoire à un 
 
 1991, c. 64, a. 2683; 1998, c. 5, a. 9.
 
-2684. Seule la personne ou le fiduciaire qui exploite une entreprise peut consentir une hypothèque sur une universalité de biens, meubles ou immeubles, présents ou à venir, corporels ou incorporels.
+2684. Seule la personne, la société ou le fiduciaire qui exploite une entreprise peut consentir une hypothèque sur une universalité de biens, meubles ou immeubles, présents ou à venir, corporels ou incorporels.
 
 Celui qui exploite l'entreprise peut, ainsi, hypothéquer les animaux, l'outillage ou le matériel d'équipement professionnel, les créances et comptes clients, les brevets et marques de commerce, ou encore les meubles corporels qui font partie de l'actif de l'une ou l'autre de ses entreprises et qui sont détenus afin d'être vendus, loués ou traités dans le processus de fabrication ou de transformation d'un bien destiné à la vente, à la location ou à la prestation de services.
 
-1991, c. 64, a. 2684.
+1991, c. 64, a. 2684; 2015, c. 8, a. 354.
 
-2684.1. Nonobstant l'article 2684, la personne physique qui n'exploite pas une entreprise peut, si ces valeurs ou titres sont de la nature de ceux qu'elle peut grever d'une hypothèque sans dépossession, consentir une hypothèque sur une universalité de valeurs mobilières ou de titres intermédiés, présents ou à venir, visés par la Loi sur le transfert de valeurs mobilières et l'obtention de titres intermédiés (chapitre T-11.002).
+2684.1. Nonobstant l'article 2684, la personne physique qui n'exploite pas une entreprise peut, si ces créances, valeurs ou titres sont de la nature de ceux qu'elle peut grever d'une hypothèque sans dépossession, consentir une hypothèque sur une universalité de créances, présentes ou à venir, portant sur le solde créditeur d'un compte financier visées par les articles 2713.1 à 2713.9, de même que sur une universalité de valeurs mobilières ou de titres intermédiés, présents ou à venir, visés par la Loi sur le transfert de valeurs mobilières et l'obtention de titres intermédiés (chapitre T-11.002).
 
 Elle peut aussi, si les biens sont de la nature de ceux qu'elle peut grever d'une hypothèque sans dépossession, consentir une hypothèque sur toute autre universalité de biens, présents ou à venir, déterminée par règlement.
 
-2008, c. 20, a. 133.
+2008, c. 20, a. 133; 2015, c. 8, a. 355.
 
-2685. Seule la personne qui exploite une entreprise peut consentir une hypothèque sur un meuble représenté par un connaissement.
+2685. Seule la personne, la société ou le fiduciaire qui exploite une entreprise peut consentir une hypothèque sur un meuble représenté par un connaissement.
 
-1991, c. 64, a. 2685.
+1991, c. 64, a. 2685; 2015, c. 8, a. 356.
 
-2686. Seule la personne ou le fiduciaire qui exploite une entreprise peut consentir une hypothèque ouverte sur les biens de l'entreprise.
+2686. Seule la personne, la société ou le fiduciaire qui exploite une entreprise peut consentir une hypothèque ouverte sur les biens de l'entreprise.
 
-1991, c. 64, a. 2686.
+1991, c. 64, a. 2686; 2015, c. 8, a. 357.
 
 SECTION II 
 DE L'OBLIGATION GARANTIE PAR HYPOTHÈQUE
@@ -15783,9 +15796,15 @@ Cette règle s'applique alors même que l'hypothèque est constituée pour garan
 
 1991, c. 64, a. 2691.
 
-2692. L'hypothèque qui garantit le paiement des obligations ou autres titres d'emprunt, émis par le fiduciaire, la société en commandite ou la personne morale autorisée à le faire en vertu de la loi, doit, à peine de nullité absolue, être constituée par acte notarié en minute, en faveur du fondé de pouvoir des créanciers.
+2692. L'hypothèque qui garantit l'exécution d'obligations d'une personne morale, d'une société ou d'un fiduciaire peut être constituée en faveur du fondé de pouvoir de tous les créanciers actuels ou futurs de ces obligations. Le fondé de pouvoir peut être l'un des créanciers, voire le seul créancier des obligations; il peut aussi être un tiers.
 
-1991, c. 64, a. 2692.
+Le fondé de pouvoir est nommé par le débiteur ou le constituant ou par l'un ou l'autre des créanciers. Il est le titulaire de l'hypothèque et il a le pouvoir d'exercer tous les droits conférés par celle-ci, y compris celui d'en donner mainlevée et de consentir à la radiation de son inscription, s'il en est, sur les registres de la publicité des droits; dans l'exercice de ces droits, il lie les créanciers envers les tiers.
+
+Le fondé de pouvoir est remplacé, le cas échéant, dans les conditions et suivant les modalités établies dans l'acte, hypothécaire ou autre, qui le nomme ou, à défaut, selon ce que déterminent le ou les créanciers. En cas de remplacement du fondé de pouvoir, l'hypothèque et les autres sûretés créées en sa faveur subsistent en faveur de son successeur. Ce successeur ne peut cependant exercer les droits se rapportant à une hypothèque publiée par inscription tant qu'un avis du remplacement, portant mention expresse du nom du fondé de pouvoir remplacé, n'a pas été inscrit aux registres dans lesquels l'hypothèque a été ainsi publiée.
+
+À moins qu'il ne s'agisse d'une hypothèque mobilière avec dépossession, l'hypothèque en faveur du fondé de pouvoir doit, à peine de nullité absolue, être constituée par acte notarié en minute, quelle que soit la nature des obligations dont elle garantit l'exécution.
+
+1991, c. 64, a. 2692; 2015, c. 8, a. 358.
 
 SECTION III 
 DE L'HYPOTHÈQUE IMMOBILIÈRE
@@ -15879,15 +15898,16 @@ Lorsque l'intermédiaire a constitué plusieurs hypothèques mobilières sur les
 
 § 3. —  Dispositions particulières à l'hypothèque mobilière sur des créances
 
+I. —  De l'hypothèque sur des créances en général
 2710. L'hypothèque mobilière qui grève une créance que détient le constituant contre un tiers, ou une universalité de créances, peut être constituée avec ou sans dépossession.
 
 Cependant, dans l'un et l'autre cas, le créancier ne peut faire valoir son hypothèque à l'encontre des débiteurs des créances hypothéquées tant qu'elle ne leur est pas rendue opposable de la même manière qu'une cession de créance.
 
 1991, c. 64, a. 2710.
 
-2711. L'hypothèque qui grève une universalité de créances doit, même lorsqu'elle est constituée par la remise du titre au créancier, être inscrite au registre approprié.
+2711. (Abrogé).
 
-1991, c. 64, a. 2711.
+1991, c. 64, a. 2711; 2015, c. 8, a. 360.
 
 2712. L'hypothèque qui grève une créance que détient le constituant contre un tiers, créance qui est elle-même garantie par une hypothèque inscrite, doit être publiée par inscription; le créancier doit remettre une copie d'un état certifié de l'inscription au débiteur de la créance hypothéquée.
 
@@ -15896,6 +15916,65 @@ Cependant, dans l'un et l'autre cas, le créancier ne peut faire valoir son hypo
 2713. Dans tous les cas, le créancier ou le constituant peut, en mettant l'autre en cause, intenter une action en recouvrement d'une créance hypothéquée.
 
 1991, c. 64, a. 2713.
+
+II. —  De l'hypothèque avec dépossession sur certaines créances pécuniaires
+2713.1. La remise et la détention nécessaires à la constitution et à l'opposabilité d'une hypothèque mobilière avec dépossession sur une créance pécuniaire peuvent, dans les cas visés par les dispositions prévues ci-après, s'opérer par la maîtrise de cette créance qu'obtient le créancier conformément à ces dispositions.
+
+On entend par une créance pécuniaire toute créance obligeant le débiteur à rembourser, rendre ou restituer une somme d'argent ou à faire tout autre paiement ayant pour objet une somme d'argent, à l'exception:
+
+ 1° d'une créance représentée par un titre négociable;
+
+ 2° d'une créance qui est une valeur mobilière ou un titre intermédié visés par la Loi sur le transfert de valeurs mobilières et l'obtention de titres intermédiés (chapitre T-11.002);
+
+ 3° d'une créance résultant de la remise d'espèces individualisées dont le paiement, suivant l'intention manifeste des parties, doit être fait par la restitution de ces mêmes espèces.
+
+2015, c. 8, a. 361.
+
+2713.2. Un créancier peut obtenir la maîtrise d'une créance pécuniaire détenue par le constituant de l'hypothèque contre lui ou, encore, d'une créance pécuniaire détenue par le constituant contre un tiers.
+
+2015, c. 8, a. 361.
+
+2713.3. Un créancier obtient la maîtrise d'une créance pécuniaire détenue par le constituant contre lui si le constituant a consenti à ce que cette créance garantisse l'exécution d'une obligation envers le créancier.
+
+2015, c. 8, a. 361.
+
+2713.4. Un créancier obtient la maîtrise d'une créance pécuniaire détenue par le constituant contre un tiers si les conditions suivantes sont réunies:
+
+ 1° la créance porte sur le solde créditeur d'un compte financier tenu par le tiers pour le constituant ou sur une somme d'argent versée par le constituant à un tiers pour garantir l'exécution d'une obligation envers le créancier;
+
+ 2° le créancier a conclu avec le tiers et le constituant un accord, appelé accord de maîtrise, aux termes duquel le tiers convient, relativement au solde créditeur ou à la somme d'argent, de se conformer aux instructions du créancier sans le consentement additionnel du constituant.
+
+Un créancier obtient aussi la maîtrise d'une créance pécuniaire portant sur le solde créditeur d'un compte financier s'il devient titulaire de ce compte.
+
+2015, c. 8, a. 361.
+
+2713.5. Le tiers n'est pas tenu de conclure un accord de maîtrise avec le créancier relativement au solde créditeur ou à la somme d'argent, même si le constituant le lui demande. Il n'est pas tenu, non plus, de confirmer l'existence d'un tel accord, sauf si le constituant le lui demande.
+
+2015, c. 8, a. 361.
+
+2713.6. Un compte financier est un compte, autre qu'un compte de titres au sens de la Loi sur le transfert de valeurs mobilières et l'obtention de titres intermédiés (chapitre T-11.002), au crédit duquel des sommes d'argent sont ou peuvent être portées et dont le teneur, étant débiteur du solde créditeur, s'engage à considérer le titulaire du compte comme étant autorisé à exercer les droits afférents à ce solde.
+
+Outre les banques et les coopératives de services financiers, sont teneurs de comptes financiers les courtiers, les sociétés de fiducie, les sociétés d'épargne et les personnes qui, dans le cours normal de leurs activités, tiennent des comptes financiers pour autrui.
+
+2015, c. 8, a. 361.
+
+2713.7. La maîtrise d'une créance pécuniaire n'est pas affectée, le cas échéant, par le fait que le constituant conserve le droit de donner des instructions relativement à cette créance.
+
+Le créancier peut, à tout moment, retirer ce droit au constituant. Ce retrait n'est assujetti à aucune formalité de notification ou d'inscription à des fins de publicité.
+
+2015, c. 8, a. 361.
+
+2713.8. L'hypothèque mobilière avec dépossession opérée par la maîtrise d'une créance pécuniaire qu'obtient un créancier prend rang avant toute autre hypothèque mobilière grevant cette créance, quel que soit le moment où cette hypothèque est publiée, dès l'obtention de cette maîtrise.
+
+Lorsque plusieurs hypothèques mobilières avec dépossession grevant une même créance pécuniaire détenue par le constituant contre un tiers ont été consenties en faveur de créanciers qui, chacun, en ont obtenu la maîtrise en vertu d'un accord de maîtrise, celles-ci prennent rang, entre elles, suivant le moment où le tiers a convenu de se conformer aux instructions du créancier.
+
+L'hypothèque sur une créance pécuniaire détenue par le constituant contre le créancier a priorité de rang sur toute autre hypothèque avec dépossession opérée par maîtrise grevant cette créance. Toutefois, si la créance porte sur le solde créditeur d'un compte financier et qu'un autre créancier en a obtenu la maîtrise en devenant titulaire du compte, l'hypothèque de cet autre créancier a priorité de rang.
+
+2015, c. 8, a. 361.
+
+2713.9. La personne physique qui n'exploite pas une entreprise ne peut consentir une hypothèque mobilière avec dépossession s'opérant par la maîtrise de créances pécuniaires qu'à l'égard de créances qu'elle peut, dans les conditions prescrites, grever d'une hypothèque mobilière sans dépossession.
+
+2015, c. 8, a. 361.
 
 § 4. —  Dispositions particulières à l'hypothèque mobilière sur navire, cargaison ou fret
 
@@ -15912,9 +15991,11 @@ L'hypothèque peut aussi être constituée sur la cargaison d'un navire immatric
 
 2714.2. L'hypothèque mobilière avec dépossession opérée par la maîtrise qu'obtient un créancier relativement à des valeurs mobilières ou à des titres intermédiés prend rang avant toute autre hypothèque mobilière portant sur les mêmes valeurs ou titres, quel que soit le moment où cette autre hypothèque est publiée, dès l'obtention de cette maîtrise.
 
-Lorsque plusieurs hypothèques mobilières avec dépossession portant sur les mêmes valeurs mobilières ou sur les mêmes titres intermédiés ont été consenties en faveur de créanciers ayant chacun obtenu la maîtrise de ces valeurs ou titres, les hypothèques prennent rang, entre elles, suivant le moment où chacun des créanciers a obtenu la maîtrise des valeurs ou titres. Toutefois, lorsque les hypothèques portent sur des titres intermédiés, l'hypothèque du créancier qui a obtenu la maîtrise des titres en en devenant titulaire a priorité de rang.
+Lorsque plusieurs hypothèques mobilières avec dépossession portant sur les mêmes valeurs mobilières ont été consenties en faveur de créanciers ayant chacun obtenu la maîtrise de ces valeurs, les hypothèques prennent rang, entre elles, suivant le moment où chacun des créanciers a obtenu la maîtrise des valeurs.
 
-2008, c. 20, a. 136.
+Lorsque les hypothèques portent sur des titres intermédiés, l'hypothèque du créancier qui en a obtenu la maîtrise en devenant, lui-même ou par une autre personne agissant pour lui, titulaire des titres a priorité de rang. Celles des créanciers dont la maîtrise des titres a été obtenue en vertu d'un accord de maîtrise prennent rang, entre elles, suivant le moment où l'intermédiaire en valeurs mobilières a convenu de se conformer aux ordres du créancier ou d'une autre personne agissant pour le créancier.
+
+2008, c. 20, a. 136; 2015, c. 8, a. 362.
 
 2714.3. L'hypothèque mobilière avec dépossession grevant, en faveur d'un intermédiaire en valeurs mobilières, des titres intermédiés sur un actif financier porté au crédit d'un compte de titres que l'intermédiaire tient pour le constituant prend rang avant toute autre hypothèque grevant ces titres.
 
@@ -15955,11 +16036,11 @@ Elle n'est opposable aux tiers que par l'inscription de l'avis de clôture.
 
 1991, c. 64, a. 2717.
 
-2718. L'hypothèque ouverte qui grève plusieurs créances produit ses effets à l'égard des débiteurs des créances hypothéquées dès l'inscription de l'avis de clôture, à condition que cet avis soit publié dans un journal distribué dans la localité de la dernière adresse connue du constituant de l'hypothèque ouverte ou, si celui-ci exploite une entreprise, dans la localité où son principal établissement est situé.
+2718. L'hypothèque ouverte qui grève plusieurs créances produit ses effets à l'égard des débiteurs des créances hypothéquées dès l'inscription de l'avis de clôture, à condition que cet avis soit publié conformément aux règles établies par le Code de procédure civile (chapitre C-25.01) pour la notification par avis public.
 
 La publication de l'avis n'est pas nécessaire si l'hypothèque et l'avis de clôture sont rendus opposables aux débiteurs des créances hypothéquées, de la même manière qu'une cession de créance.
 
-1991, c. 64, a. 2718.
+1991, c. 64, a. 2718; 2014, c. 1, a. 798.
 
 2719. L'hypothèque ouverte emporte, par sa clôture, les effets d'une hypothèque, mobilière ou immobilière, à l'égard des droits que le constituant peut encore avoir, à ce moment, dans les biens grevés; si, parmi ceux-ci, se trouve une universalité, elle grève aussi les biens acquis par le constituant après la clôture.
 
@@ -16190,11 +16271,11 @@ Ce délai est de 20 jours à compter de l'inscription du préavis s'il s'agit d'
 
 2759. Les créanciers titulaires d'une hypothèque grevant des valeurs mobilières ou des titres intermédiés visés par la Loi sur le transfert de valeurs mobilières et l'obtention de titres intermédiés (chapitre T-11.002) peuvent, si la convention qu'ils ont avec le constituant le permet et si, lorsqu'ils n'ont pas la maîtrise des valeurs ou titres, ceux-ci sont négociables sur une bourse ou sur les marchés de capitaux, vendre ces valeurs ou titres ou autrement en disposer sans être tenus de donner un préavis, d'obtenir un délaissement ou de respecter les délais prescrits par le présent titre.
 
-Le créancier qui dispose ainsi d'une valeur ou d'un titre agit au nom du constituant et il n'est pas tenu de dénoncer sa qualité à l'acquéreur. Il impute le produit de la disposition au paiement des frais qu'il a engagés pour y procéder, au paiement des créances primant ses droits, puis à celui de sa créance; il remet ensuite au constituant le surplus, s'il en existe. La disposition purge les droits réels grevant la valeur ou le titre dans la mesure prévue au Code de procédure civile (chapitre C-25) quant à l'effet de l'adjudication.
+Le créancier qui dispose ainsi d'une valeur ou d'un titre agit au nom du constituant et il n'est pas tenu de dénoncer sa qualité à l'acquéreur. Il impute le produit de la disposition au paiement des frais qu'il a engagés pour y procéder, au paiement des créances primant ses droits, puis à celui de sa créance; il remet ensuite au constituant le surplus, s'il en existe. La disposition purge les droits réels grevant la valeur ou le titre dans la mesure prévue au Code de procédure civile (chapitre C-25) quant à l'effet de la vente sous contrôle de justice.
 
 Les règles du présent titre relatives à la vente par le créancier sont, pour le reste, applicables à la disposition d'une valeur ou d'un titre par le créancier, compte tenu des adaptations nécessaires.
 
-1991, c. 64, a. 2759; 2008, c. 20, a. 138.
+1991, c. 64, a. 2759; 2008, c. 20, a. 138; 2014, c. 1, a. 799.
 
 2760. L'aliénation volontaire du bien grevé d'une hypothèque, faite après l'inscription par le créancier du préavis d'exercice d'un droit hypothécaire, est inopposable à ce créancier, à moins que l'acquéreur, avec le consentement du créancier, n'assume personnellement la dette, ou que ne soit consignée une somme suffisante pour couvrir le montant de la dette, les intérêts dus et les frais engagés par le créancier.
 
@@ -16343,13 +16424,13 @@ S'il y a plus d'un bien, il peut les vendre ensemble ou séparément.
 
 1991, c. 64, a. 2786.
 
-2787. Le créancier qui procède par appel d'offres peut le faire par la voie des journaux ou sur invitation.
+2787. Le créancier qui procède par appel d'offres peut le faire sur invitation ou par un appel public.
 
 L'appel d'offres doit contenir les renseignements suffisants pour permettre à toute personne intéressée de présenter, en temps et lieu, une soumission.
 
 Le créancier est tenu d'accepter la soumission la plus élevée, à moins que les conditions dont elle est assortie ne la rendent moins avantageuse qu'une autre offrant un prix moins élevé, ou que le prix offert ne soit pas un prix commercialement raisonnable.
 
-1991, c. 64, a. 2787.
+1991, c. 64, a. 2787; 2014, c. 1, a. 800.
 
 2788. Le créancier qui procède à la vente aux enchères doit le faire aux date, heure et lieu fixés dans l'avis de vente signifié à celui contre qui le droit hypothécaire est exercé et au constituant, et notifié aux autres créanciers qui ont publié leur droit à l'égard du bien.
 
@@ -16376,21 +16457,23 @@ DE LA VENTE SOUS CONTRÔLE DE JUSTICE
 
 2791. La vente a lieu sous contrôle de justice lorsque le tribunal désigne la personne qui y procédera, détermine les conditions et les charges de la vente, indique si elle peut être faite de gré à gré, par appel d'offres ou aux enchères et, s'il le juge opportun, fixe, après s'être enquis de la valeur du bien, une mise à prix.
 
-1991, c. 64, a. 2791.
+La personne chargée de vendre le bien doit être indépendante des intéressés et avoir les compétences nécessaires pour y procéder.
+
+1991, c. 64, a. 2791; 2014, c. 1, a. 801.
 
 2792. Un créancier ne peut demander que la vente ait lieu à charge de son hypothèque.
 
 1991, c. 64, a. 2792.
 
-2793. La personne chargée de vendre le bien est tenue, outre de suivre les règles prescrites au Code de procédure civile (chapitre C-25) pour la vente du bien d'autrui, d'informer de ses démarches les parties intéressées si celles-ci le demandent.
+2793. La personne chargée de vendre le bien est tenue d'informer de ses démarches les parties intéressées si celles-ci le demandent et de respecter, en faisant les adaptations nécessaires, les règles des titres III et IV du livre huitième du Code de procédure civile (chapitre C-25.01) sur la vente sous contrôle de justice, y compris quant aux publications au registre des ventes, et sur la distribution du produit de l'exécution.
 
 Elle agit au nom du propriétaire et elle est tenue de dénoncer sa qualité à l'acquéreur.
 
-1991, c. 64, a. 2793.
+1991, c. 64, a. 2793; 2014, c. 1, a. 802.
 
-2794. La vente sous contrôle de justice purge les droits réels dans la mesure prévue au Code de procédure civile (chapitre C-25) quant à l'effet du décret d'adjudication.
+2794. La vente sous contrôle de justice purge les droits réels dans la mesure prévue au Code de procédure civile (chapitre C-25).
 
-1991, c. 64, a. 2794.
+1991, c. 64, a. 2794; 2014, c. 1, a. 803.
 
 CHAPITRE SIXIÈME 
 DE L'EXTINCTION DES HYPOTHÈQUES
@@ -16415,9 +16498,9 @@ Le gage s'éteint lorsque cesse la détention.
 
 2799. L'hypothèque immobilière s'éteint au plus tard 30 ans après son inscription ou après l'inscription d'un avis qui lui donne effet ou la renouvelle.
 
-Cette règle ne reçoit pas application dans le cas d'une hypothèque garantissant le prix de l'emphytéose, la rente créée pour le prix de l'immeuble, la rente viagère ou l'usufruit viager, d'une hypothèque constituée en faveur de La Financière agricole du Québec ou de la Société d'habitation du Québec, ou d'une hypothèque constituée en faveur d'un fondé de pouvoir des créanciers pour garantir le paiement d'obligations ou autres titres d'emprunt.
+Cette règle ne reçoit pas application dans le cas d'une hypothèque garantissant le prix de l'emphytéose, la rente créée pour le prix de l'immeuble, la rente viagère ou l'usufruit viager, d'une hypothèque constituée en faveur de La Financière agricole du Québec ou de la Société d'habitation du Québec, ou d'une hypothèque constituée en faveur d'un fondé de pouvoir de créanciers actuels ou futurs pour garantir l'exécution d'obligations d'une personne morale, d'une société ou d'un fiduciaire.
 
-1991, c. 64, a. 2799; 2000, c. 42, a. 8; 2000, c. 53, a. 67.
+1991, c. 64, a. 2799; 2000, c. 42, a. 8; 2000, c. 53, a. 67; 2015, c. 8, a. 363.
 
 2800. L'hypothèque légale du syndicat des copropriétaires sur la fraction d'un copropriétaire s'éteint trois ans après son inscription, à moins que le syndicat, afin de la conserver, ne publie une action contre le propriétaire en défaut ou n'inscrive un préavis d'exercice d'un droit hypothécaire.
 
@@ -16953,9 +17036,9 @@ DE L'INTERRUPTION DE LA PRESCRIPTION
 
 2892. Le dépôt d'une demande en justice, avant l'expiration du délai de prescription, forme une interruption civile, pourvu que cette demande soit signifiée à celui qu'on veut empêcher de prescrire, au plus tard dans les 60 jours qui suivent l'expiration du délai de prescription.
 
-La demande reconventionnelle, l'intervention, la saisie et l'opposition sont considérées comme des demandes en justice. Il en est de même de l'avis exprimant l'intention d'une partie de soumettre un différend à l'arbitrage, pourvu que cet avis expose l'objet du différend qui y sera soumis et qu'il soit signifié suivant les règles et dans les délais applicables à la demande en justice.
+La demande reconventionnelle, l'intervention, la saisie et l'opposition sont considérées comme des demandes en justice. Il en est de même de l'avis exprimant l'intention d'une partie de soumettre un différend à l'arbitrage, pourvu que cet avis expose l'objet du différend qui y sera soumis et qu'il soit notifié suivant les règles et dans les délais applicables à la demande en justice.
 
-1991, c. 64, a. 2892.
+1991, c. 64, a. 2892; 2014, c. 1, a. 804.
 
 2893. Interrompt également la prescription, toute demande faite par un créancier en vue de participer à une distribution en concurrence avec d'autres créanciers.
 
@@ -17026,13 +17109,13 @@ Elle ne court pas, non plus, contre le mineur ou le majeur sous curatelle ou sou
 
 1991, c. 64, a. 2907.
 
-2908. La requête pour obtenir l'autorisation d'exercer un recours collectif suspend la prescription en faveur de tous les membres du groupe auquel elle profite ou, le cas échéant, en faveur du groupe que décrit le jugement qui fait droit à la requête.
+2908. La demande pour obtenir l'autorisation d'exercer un recours collectif suspend la prescription en faveur de tous les membres du groupe auquel elle profite ou, le cas échéant, en faveur du groupe que décrit le jugement qui fait droit à la demande.
 
-Cette suspension dure tant que la requête n'est pas rejetée, annulée ou que le jugement qui y fait droit n'est pas annulé; par contre, le membre qui demande à être exclu du recours, ou qui en est exclu par la description que fait du groupe le jugement qui autorise le recours, un jugement interlocutoire ou le jugement qui dispose du recours, cesse de profiter de la suspension de la prescription.
+Cette suspension dure tant que la demande d'autorisation n'est pas rejetée, annulée ou que le jugement qui y fait droit n'est pas annulé; par contre, le membre qui demande à être exclu du recours, ou qui en est exclu par la description que fait du groupe le jugement qui autorise le recours, un jugement interlocutoire ou le jugement qui dispose du recours, cesse de profiter de la suspension de la prescription.
 
 Toutefois, s'il s'agit d'un jugement, la prescription ne recommence à courir qu'au moment où le jugement n'est plus susceptible d'appel.
 
-1991, c. 64, a. 2908.
+1991, c. 64, a. 2908; 2014, c. 1, a. 805.
 
 2909. La suspension de la prescription des créances solidaires et des créances indivisibles produit ses effets à l'égard des créanciers ou débiteurs et de leurs héritiers suivant les règles applicables à l'interruption de la prescription de ces mêmes créances.
 
@@ -17323,9 +17406,9 @@ DE CERTAINS AUTRES EFFETS
 
 1991, c. 64, a. 2957; 2000, c. 42, a. 18.
 
-2958. Le créancier qui saisit un immeuble ne peut se voir opposer les droits publiés après l'inscription du procès-verbal de saisie, pourvu que celle-ci soit suivie d'une vente en justice.
+2958. Le créancier qui saisit un immeuble ne peut se voir opposer les droits publiés après l'inscription de l'avis d'exécution ou du procès-verbal de saisie, pourvu que celle-ci soit suivie d'une vente sous contrôle de justice.
 
-1991, c. 64, a. 2958.
+1991, c. 64, a. 2958; 2014, c. 1, a. 806.
 
 2959. L'inscription d'une hypothèque conserve au créancier, au même rang que le capital, les intérêts échus de l'année courante et des trois années précédentes.
 
@@ -17600,18 +17683,18 @@ La réquisition d'inscription doit être accompagnée d'une copie du jugement; e
 
 2995. Aucune attestation de vérification n'est requise pour l'inscription sur le registre des droits personnels et réels mobiliers.
 
-Pour l'inscription sur le registre foncier des déclarations de résidence familiale, des baux immobiliers ou des avis prévus par la loi, à l'exception des avis requis pour l'inscription d'une hypothèque légale ou mobilière, ou de l'avis cadastral d'inscription d'un droit, les documents présentés n'ont pas à être attestés par un notaire ou un avocat, mais par deux témoins, dont l'un sous serment.
+Pour l'inscription sur le registre foncier des déclarations de résidence familiale, des baux immobiliers ou des avis prévus par la loi, à l'exception des avis requis pour l'inscription d'une hypothèque légale ou mobilière, de l'avis cadastral d'inscription d'un droit ou de l'avis de remplacement d'un fondé de pouvoir de créanciers actuels ou futurs, les documents présentés n'ont pas à être attestés par un notaire ou un avocat, mais par deux témoins, dont l'un sous serment.
 
-1991, c. 64, a. 2995.
+1991, c. 64, a. 2995; 2015, c. 8, a. 364.
 
 SECTION III 
 DE CERTAINES RÈGLES D'INSCRIPTION
 
-2996. Le procès-verbal de bornage est accompagné du plan qui s'y rapporte. Le cas échéant, le procès-verbal est présenté avec la réquisition d'inscription du jugement qui l'homologue. Il doit mentionner expressément que la limite entre les propriétés bornées coïncide avec la limite cadastrale des lots qui y sont visés.
+2996. Le procès-verbal d'abornement est accompagné du plan qui s'y rapporte et le rapport de bornage peut également y être joint. Le cas échéant, le procès-verbal est présenté avec la réquisition d'inscription du jugement qui l'homologue. Il doit mentionner expressément que la limite entre les propriétés bornées coïncide avec la limite cadastrale des lots qui y sont visés.
 
-À défaut de cette mention, l'inscription du procès-verbal sur le registre foncier doit être refusée jusqu'à ce qu'une modification du plan soit indiquée sur le registre foncier et qu'un avis de la modification relatif aux lots visés soit inscrit sur ce registre.
+À défaut de cette mention, l'inscription sur le registre foncier doit être refusée jusqu'à ce qu'une modification du plan soit indiquée sur le registre foncier et qu'un avis de la modification relatif aux lots visés soit inscrit sur ce registre.
 
-1991, c. 64, a. 2996; 2000, c. 42, a. 39.
+1991, c. 64, a. 2996; 2000, c. 42, a. 39; 2014, c. 1, a. 807.
 
 2997. La publicité d'un plan dont le dépôt au bureau de la publicité des droits est exigé en vertu d'une loi s'obtient par la présentation, avec le plan même, d'un avis désignant l'immeuble visé par ce plan.
 
@@ -17639,11 +17722,15 @@ L'exactitude du contenu de l'avis doit, dans tous les cas, être attestée par u
 
 1999, c. 49, a. 2; 2000, c. 42, a. 41; 2013, c. 27, a. 32.
 
-3000. Les avis de vente forcée et les autres avis prescrits au livre Des priorités et des hypothèques doivent être publiés.
+2999.2. L'avis de remplacement d'un fondé de pouvoir de créanciers actuels ou futurs présenté à l'officier de la publicité foncière doit être donné par le fondé de pouvoir remplacé et son successeur, ou seulement par ce dernier si l'avis précise que les conditions et les modalités établies pour le remplacement du fondé de pouvoir ont été remplies.
+
+2015, c. 8, a. 365.
+
+3000. Les avis de vente forcée, les avis de vente sous contrôle de justice, ainsi que les autres avis prescrits au livre Des priorités et des hypothèques doivent, lorsqu'ils visent un immeuble, être publiés au registre foncier.
 
 Lorsqu'un immeuble fait l'objet d'une vente forcée ou consécutive à l'exercice d'un droit hypothécaire, il ne peut être délivré copie de l'acte constatant la vente avant que celle-ci n'ait été publiée, aux frais de l'acquéreur, par la personne habilitée à procéder à la vente.
 
-1991, c. 64, a. 3000; 1998, c. 5, a. 16.
+1991, c. 64, a. 3000; 1998, c. 5, a. 16; 2014, c. 1, a. 808.
 
 3001. La personne habilitée à procéder à la vente aux enchères pour défaut de paiement de l'impôt foncier est tenue de présenter, dans les 10 jours de l'adjudication, une liste désignant les immeubles vendus, leur acquéreur et leur dernier propriétaire et indiquant le mode d'acquisition et le numéro d'inscription du titre du dernier propriétaire.
 
@@ -17748,13 +17835,13 @@ Dans tous les cas, l'officier indique la date, l'heure et la minute de la rectif
 
 1991, c. 64, a. 3016; 2000, c. 42, a. 51.
 
-3017. L'officier est tenu de notifier, dans les meilleurs délais, à chaque personne qui a requis l'inscription de son adresse, que le bien sur lequel son droit est publié est l'objet d'un préavis d'exercice d'un droit hypothécaire ou d'un préavis de vente pour défaut de paiement de l'impôt foncier. Il fait de même lorsqu'un avis exige l'abandon de la prise en paiement ou lorsque le bien doit être vendu sous l'autorité de la justice ou, s'il s'agit d'un immeuble, a été adjugé pour défaut de paiement de l'impôt foncier ou fait l'objet d'une saisie; l'officier indique, le cas échéant, le lieu et la date de la vente.
+3017. L'officier est tenu de notifier, dans les meilleurs délais, à chaque personne qui a requis l'inscription de son adresse, que le bien sur lequel son droit est publié est l'objet d'un préavis d'exercice d'un droit hypothécaire ou d'un préavis de vente pour défaut de paiement de l'impôt foncier. Il fait de même lorsqu'un avis exige l'abandon de la prise en paiement ou lorsque l'immeuble, a été adjugé pour défaut de paiement de l'impôt foncier ou fait l'objet d'une saisie; l'officier indique, le cas échéant, le lieu et la date de la vente.
 
 Une telle notification doit être faite au procureur général lorsqu'il s'agit d'un bien grevé d'une hypothèque ou s'il s'agit d'une créance prioritaire publiée en faveur de l'État. Elle doit aussi être faite à La Financière agricole du Québec et à la Société d'habitation du Québec lorsqu'il s'agit d'immeubles grevés d'hypothèques publiées en leur faveur.
 
-La personne qui a requis l'inscription d'une adresse électronique est réputée avoir été notifiée sur simple preuve de la transmission, à cette adresse, des renseignements exigés de l'officier.
+La personne qui a requis l'inscription d'une adresse est réputée avoir été notifiée sur simple preuve de la transmission, à cette adresse, des renseignements exigés de l'officier.
 
-1991, c. 64, a. 3017; 2000, c. 42, a. 52; 2013, c. 27, a. 33; N.I. 2014-05-01.
+1991, c. 64, a. 3017; 2000, c. 42, a. 52; 2013, c. 27, a. 33; N.I. 2014-05-01; 2014, c. 1, a. 809.
 
 3018. L'officier ne peut, si ce n'est pour des fins prévues par règlement, utiliser les registres et les autres documents qu'il conserve à d'autres fins que d'assurer, conformément à la loi, la publicité des droits qui y sont inscrits ou mentionnés, notamment pour les rendre opposables aux tiers, établir leur rang ou leur donner effet.
 
@@ -18135,13 +18222,13 @@ Elle peut l'être encore par la présentation d'une copie d'un décret du gouver
 
 1991, c. 64, a. 3068; 2010, c. 31, a. 81.
 
-3069. L'inscription des droits éteints par l'exercice des droits hypothécaires, par la vente forcée ou par la vente définitive du bien pour défaut de paiement de l'impôt foncier est radiée à la suite de l'inscription de la vente ou de la prise en paiement. Toutes les inscriptions des procès-verbaux de saisie, des préavis de vente, des préavis d'exercice d'un recours ou d'un droit et, le cas échéant, d'un avis exigeant l'abandon de la prise en paiement en vertu du livre Des priorités et des hypothèques, sont alors radiées par l'officier.
+3069. L'inscription des droits éteints par l'exercice des droits hypothécaires, par la vente sous contrôle de justice ou par la vente définitive du bien pour défaut de paiement de l'impôt foncier est radiée à la suite de l'inscription de la vente ou de la prise en paiement. Toutes les inscriptions qu'il s'agisse selon les cas des avis d'exécution, des procès-verbaux de saisie, des avis et préavis de vente, des préavis d'exercice d'un recours ou d'un droit et, le cas échéant, d'un avis exigeant l'abandon de la prise en paiement en vertu du livre Des priorités et des hypothèques, sont alors radiées par l'officier.
 
-Cependant, lorsqu'il n'est pas procédé à la vente, les inscriptions des procès-verbaux, des préavis et des avis ne sont radiées que par la présentation d'un certificat constatant le fait et délivré par le greffier du tribunal ou par la personne désignée pour procéder à la vente.
+Cependant, lorsqu'il n'est pas procédé à la vente, les inscriptions des avis d'exécution, des procès-verbaux, des préavis et des avis ne sont radiées que par la présentation d'un certificat constatant le fait et délivré par l'huissier, la personne désignée pour procéder à la vente ou, le cas échéant, par le greffier.
 
 Les réquisitions de radiation des inscriptions sur le registre foncier visées par le présent article peuvent prendre la forme d'un sommaire du document.
 
-1991, c. 64, a. 3069; 2000, c. 42, a. 83.
+1991, c. 64, a. 3069; 2000, c. 42, a. 83; 2014, c. 1, a. 810.
 
 3070. L'inscription du préavis de vente pour défaut de paiement de l'impôt foncier et celle de l'adjudication sont radiées à la suite de l'inscription de la vente définitive consentie par l'autorité municipale ou scolaire ou de l'acte constatant que l'immeuble a fait l'objet d'un retrait.
 
@@ -18393,6 +18480,7 @@ Elle est aussi sans effet dans la mesure où elle porte atteinte aux régimes su
 
 § 2. —  Des sûretés mobilières
 
+I. —  Des sûretés mobilières en général
 3102. La validité d'une sûreté mobilière est régie par la loi de l'État de la situation du bien qu'elle grève au moment de sa constitution.
 
 La publicité et ses effets sont régis par la loi de l'État de la situation actuelle du bien grevé.
@@ -18434,6 +18522,19 @@ La présente disposition ne s'applique ni à la sûreté grevant un meuble incor
 Toutefois, la sûreté n'est pas opposable à l'acheteur qui a acquis le bien dans le cours des activités du constituant.
 
 1991, c. 64, a. 3106.
+
+II. —  Des sûretés mobilières sur certaines créances pécuniaires
+3106.1. À moins qu'un acte juridique régissant une créance pécuniaire visée à l'article 2713.1 portant sur le solde créditeur d'un compte financier ou sur une somme d'argent versée pour garantir l'exécution d'une obligation envers le créancier ne désigne expressément la loi qui leur est applicable, la validité d'une sûreté grevant une telle créance, de même que la publicité de la sûreté et les effets de cette publicité, sont régies par la loi désignée expressément dans l'acte juridique régissant la créance comme étant la loi applicable à cet acte, déterminée, quant à la validité de la sûreté, au moment de la constitution de celle-ci.
+
+En l'absence de toute désignation dans un acte juridique régissant la créance, la loi applicable est:
+
+ 1° dans le cas d'une créance portant sur le solde créditeur d'un compte financier, celle de l'État de la situation de l'établissement mentionné expressément dans l'acte régissant le compte financier comme étant l'établissement où est tenu le compte ou, si cet établissement n'y est pas expressément mentionné, de l'établissement où, selon un relevé de compte, se trouve le compte du titulaire; si le relevé de compte ne permet pas de la déterminer, la loi applicable est celle de l'État dans lequel est situé le centre de décision du teneur de compte;
+
+ 2° dans le cas d'une créance portant sur une somme d'argent versée pour garantir l'exécution d'une obligation envers le créancier, celle de l'État dans lequel est situé le centre de décision de la personne à qui cette somme d'argent a été versée ou, si cette personne est une personne physique, celle de l'État de son domicile.
+
+La publicité de la sûreté au moyen de l'inscription est, dans tous les cas, régie par la loi de l'État du domicile du constituant.
+
+2015, c. 8, a. 367.
 
 § 3. —  De la fiducie
 
